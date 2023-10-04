@@ -1,0 +1,7 @@
+https://forum.manjaro.org/t/howto-installing-nvidia-cuda-and-cudnn-for-machine-learning/97162
+
+
+
+wget https://developer.download.nvidia.com/compute/cuda/11.5.1/local_installers/cuda_11.5.1_495.29.05_linux.run
+chmod +x cuda_11.7.0_515.43.04_linux.run
+./cuda_11.7.0_515.43.04_linux.run
