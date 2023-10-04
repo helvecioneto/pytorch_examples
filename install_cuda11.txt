@@ -2,7 +2,8 @@ https://forum.manjaro.org/t/howto-installing-nvidia-cuda-and-cudnn-for-machine-l
 
 https://developer.nvidia.com/cuda-11-8-0-download-archive
 
-wget https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_520.61.05_linux.runsudo sh cuda_11.8.0_520.61.05_linux.run
+wget https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_520.61.05_linux.run
+sudo sh cuda_11.8.0_520.61.05_linux.run
 
 wget https://developer.download.nvidia.com/compute/cuda/11.5.1/local_installers/cuda_11.5.1_495.29.05_linux.run
 chmod +x cuda_11.7.0_515.43.04_linux.run
